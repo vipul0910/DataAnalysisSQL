@@ -18,12 +18,12 @@ SQL Project Design:
 Database Schema:
 - Table: educational_income_data
 - Columns: year, age_group, gender, education_level, income_bracket, population_count.
-- 
+  
 Data Cleaning:
 - Convert Year into a proper date format or extract the year.
 - Standardize income brackets (remove extra symbols like $ and handle missing values).
 - Address missing values in Population Count.
-- 
+  
 SQL Queries:
 Demographic Analysis:
 
