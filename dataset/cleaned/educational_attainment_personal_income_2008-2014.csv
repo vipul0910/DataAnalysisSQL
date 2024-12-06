@@ -1,0 +1,1061 @@
+year,age_group,gender,education_level,income_bracket,population_count
+2008,00 to 17,Male,Children under 15,,
+2008,00 to 17,Male,No high school diploma,,650889.0
+2008,00 to 17,Male,No high school diploma,50009999,30152.0
+2008,00 to 17,Male,No high school diploma,1000014999,7092.0
+2008,00 to 17,Male,No high school diploma,1500024999,3974.0
+2008,00 to 17,Male,No high school diploma,2500034999,2606.0
+2008,00 to 17,Male,No high school diploma,3500049999,2227.0
+2008,00 to 17,Male,High school or equivalent,,
+2008,00 to 17,Male,"Some college, less than 4-yr degree",,8664.0
+2008,00 to 17,Male,"Some college, less than 4-yr degree",1000014999,1304.0
+2008,00 to 17,Male,"Some college, less than 4-yr degree",1500024999,3465.0
+2008,00 to 17,Male,Bachelor's degree or higher,,
+2008,00 to 17,Female,Children under 15,,
+2008,00 to 17,Female,No high school diploma,,635274.0
+2008,00 to 17,Female,No high school diploma,50009999,33202.0
+2008,00 to 17,Female,No high school diploma,1000014999,6857.0
+2008,00 to 17,Female,No high school diploma,1500024999,2009.0
+2008,00 to 17,Female,High school or equivalent,,4711.0
+2008,00 to 17,Female,High school or equivalent,50009999,7672.0
+2008,00 to 17,Female,"Some college, less than 4-yr degree",,7598.0
+2008,00 to 17,Female,"Some college, less than 4-yr degree",50009999,1565.0
+2008,18 to 64,Male,No high school diploma,,261172.0
+2008,18 to 64,Male,No high school diploma,50009999,163263.0
+2008,18 to 64,Male,No high school diploma,1000014999,317119.0
+2008,18 to 64,Male,No high school diploma,1500024999,573769.0
+2008,18 to 64,Male,No high school diploma,2500034999,333713.0
+2008,18 to 64,Male,No high school diploma,3500049999,222761.0
+2008,18 to 64,Male,No high school diploma,5000074999,109200.0
+2008,18 to 64,Male,No high school diploma,75000,44291.0
+2008,18 to 64,Male,High school or equivalent,,296555.0
+2008,18 to 64,Male,High school or equivalent,50009999,187833.0
+2008,18 to 64,Male,High school or equivalent,1000014999,229724.0
+2008,18 to 64,Male,High school or equivalent,1500024999,501296.0
+2008,18 to 64,Male,High school or equivalent,2500034999,433340.0
+2008,18 to 64,Male,High school or equivalent,3500049999,472466.0
+2008,18 to 64,Male,High school or equivalent,5000074999,424046.0
+2008,18 to 64,Male,High school or equivalent,75000,175104.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",,237810.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",50009999,211318.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,224732.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,416638.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,418686.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,539958.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,591795.0
+2008,18 to 64,Male,"Some college, less than 4-yr degree",75000,478470.0
+2008,18 to 64,Male,Bachelor's degree or higher,,94464.0
+2008,18 to 64,Male,Bachelor's degree or higher,50009999,52069.0
+2008,18 to 64,Male,Bachelor's degree or higher,1000014999,88070.0
+2008,18 to 64,Male,Bachelor's degree or higher,1500024999,201443.0
+2008,18 to 64,Male,Bachelor's degree or higher,2500034999,236263.0
+2008,18 to 64,Male,Bachelor's degree or higher,3500049999,387555.0
+2008,18 to 64,Male,Bachelor's degree or higher,5000074999,690627.0
+2008,18 to 64,Male,Bachelor's degree or higher,75000,1456566.0
+2008,18 to 64,Female,No high school diploma,,740143.0
+2008,18 to 64,Female,No high school diploma,50009999,252509.0
+2008,18 to 64,Female,No high school diploma,1000014999,229721.0
+2008,18 to 64,Female,No high school diploma,1500024999,317043.0
+2008,18 to 64,Female,No high school diploma,2500034999,93849.0
+2008,18 to 64,Female,No high school diploma,3500049999,51599.0
+2008,18 to 64,Female,No high school diploma,5000074999,15192.0
+2008,18 to 64,Female,No high school diploma,75000,4233.0
+2008,18 to 64,Female,High school or equivalent,,528876.0
+2008,18 to 64,Female,High school or equivalent,50009999,241389.0
+2008,18 to 64,Female,High school or equivalent,1000014999,241913.0
+2008,18 to 64,Female,High school or equivalent,1500024999,420710.0
+2008,18 to 64,Female,High school or equivalent,2500034999,293265.0
+2008,18 to 64,Female,High school or equivalent,3500049999,249327.0
+2008,18 to 64,Female,High school or equivalent,5000074999,131571.0
+2008,18 to 64,Female,High school or equivalent,75000,59350.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",,451575.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",50009999,327251.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,334679.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,497615.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,496456.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,536363.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,345723.0
+2008,18 to 64,Female,"Some college, less than 4-yr degree",75000,179877.0
+2008,18 to 64,Female,Bachelor's degree or higher,,224757.0
+2008,18 to 64,Female,Bachelor's degree or higher,50009999,131590.0
+2008,18 to 64,Female,Bachelor's degree or higher,1000014999,148626.0
+2008,18 to 64,Female,Bachelor's degree or higher,1500024999,345795.0
+2008,18 to 64,Female,Bachelor's degree or higher,2500034999,320338.0
+2008,18 to 64,Female,Bachelor's degree or higher,3500049999,503031.0
+2008,18 to 64,Female,Bachelor's degree or higher,5000074999,770798.0
+2008,18 to 64,Female,Bachelor's degree or higher,75000,781211.0
+2008,65 to 80+,Male,No high school diploma,,33353.0
+2008,65 to 80+,Male,No high school diploma,50009999,71652.0
+2008,65 to 80+,Male,No high school diploma,1000014999,124247.0
+2008,65 to 80+,Male,No high school diploma,1500024999,69185.0
+2008,65 to 80+,Male,No high school diploma,2500034999,16279.0
+2008,65 to 80+,Male,No high school diploma,3500049999,21985.0
+2008,65 to 80+,Male,No high school diploma,5000074999,13271.0
+2008,65 to 80+,Male,No high school diploma,75000,5801.0
+2008,65 to 80+,Male,High school or equivalent,,8278.0
+2008,65 to 80+,Male,High school or equivalent,50009999,46783.0
+2008,65 to 80+,Male,High school or equivalent,1000014999,75602.0
+2008,65 to 80+,Male,High school or equivalent,1500024999,108184.0
+2008,65 to 80+,Male,High school or equivalent,2500034999,37651.0
+2008,65 to 80+,Male,High school or equivalent,3500049999,48804.0
+2008,65 to 80+,Male,High school or equivalent,5000074999,27164.0
+2008,65 to 80+,Male,High school or equivalent,75000,8527.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",,1923.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,21902.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,66280.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,108057.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,62955.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,46427.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,22443.0
+2008,65 to 80+,Male,"Some college, less than 4-yr degree",75000,34723.0
+2008,65 to 80+,Male,Bachelor's degree or higher,,25141.0
+2008,65 to 80+,Male,Bachelor's degree or higher,50009999,27004.0
+2008,65 to 80+,Male,Bachelor's degree or higher,1000014999,43599.0
+2008,65 to 80+,Male,Bachelor's degree or higher,1500024999,70274.0
+2008,65 to 80+,Male,Bachelor's degree or higher,2500034999,51983.0
+2008,65 to 80+,Male,Bachelor's degree or higher,3500049999,73084.0
+2008,65 to 80+,Male,Bachelor's degree or higher,5000074999,82823.0
+2008,65 to 80+,Male,Bachelor's degree or higher,75000,161013.0
+2008,65 to 80+,Female,No high school diploma,,69280.0
+2008,65 to 80+,Female,No high school diploma,50009999,178234.0
+2008,65 to 80+,Female,No high school diploma,1000014999,182135.0
+2008,65 to 80+,Female,No high school diploma,1500024999,42275.0
+2008,65 to 80+,Female,No high school diploma,2500034999,14645.0
+2008,65 to 80+,Female,No high school diploma,3500049999,8109.0
+2008,65 to 80+,Female,No high school diploma,5000074999,8297.0
+2008,65 to 80+,Female,No high school diploma,75000,1981.0
+2008,65 to 80+,Female,High school or equivalent,,34242.0
+2008,65 to 80+,Female,High school or equivalent,50009999,188067.0
+2008,65 to 80+,Female,High school or equivalent,1000014999,156811.0
+2008,65 to 80+,Female,High school or equivalent,1500024999,164592.0
+2008,65 to 80+,Female,High school or equivalent,2500034999,78590.0
+2008,65 to 80+,Female,High school or equivalent,3500049999,34003.0
+2008,65 to 80+,Female,High school or equivalent,5000074999,29183.0
+2008,65 to 80+,Female,High school or equivalent,75000,12086.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",,12954.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,93823.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,120242.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,149462.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,73070.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,48577.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,27158.0
+2008,65 to 80+,Female,"Some college, less than 4-yr degree",75000,35445.0
+2008,65 to 80+,Female,Bachelor's degree or higher,,12915.0
+2008,65 to 80+,Female,Bachelor's degree or higher,50009999,50596.0
+2008,65 to 80+,Female,Bachelor's degree or higher,1000014999,54641.0
+2008,65 to 80+,Female,Bachelor's degree or higher,1500024999,42390.0
+2008,65 to 80+,Female,Bachelor's degree or higher,2500034999,42705.0
+2008,65 to 80+,Female,Bachelor's degree or higher,3500049999,75697.0
+2008,65 to 80+,Female,Bachelor's degree or higher,5000074999,64954.0
+2008,65 to 80+,Female,Bachelor's degree or higher,75000,60942.0
+2009,00 to 17,Male,Children under 15,,
+2009,00 to 17,Male,No high school diploma,,629969.0
+2009,00 to 17,Male,No high school diploma,50009999,41863.0
+2009,00 to 17,Male,No high school diploma,1000014999,7651.0
+2009,00 to 17,Male,No high school diploma,1500024999,3222.0
+2009,00 to 17,Male,No high school diploma,2500034999,1829.0
+2009,00 to 17,Male,High school or equivalent,,
+2009,00 to 17,Male,High school or equivalent,50009999,1185.0
+2009,00 to 17,Male,High school or equivalent,1500024999,2520.0
+2009,00 to 17,Male,"Some college, less than 4-yr degree",,2887.0
+2009,00 to 17,Male,"Some college, less than 4-yr degree",50009999,1117.0
+2009,00 to 17,Male,"Some college, less than 4-yr degree",1000014999,1878.0
+2009,00 to 17,Male,"Some college, less than 4-yr degree",1500024999,2754.0
+2009,00 to 17,Male,Bachelor's degree or higher,,
+2009,00 to 17,Female,Children under 15,,
+2009,00 to 17,Female,No high school diploma,,648149.0
+2009,00 to 17,Female,No high school diploma,50009999,29280.0
+2009,00 to 17,Female,No high school diploma,1000014999,11341.0
+2009,00 to 17,Female,No high school diploma,3500049999,1800.0
+2009,00 to 17,Female,No high school diploma,5000074999,1797.0
+2009,00 to 17,Female,High school or equivalent,,9209.0
+2009,00 to 17,Female,High school or equivalent,50009999,3169.0
+2009,00 to 17,Female,High school or equivalent,1500024999,1294.0
+2009,00 to 17,Female,"Some college, less than 4-yr degree",,4408.0
+2009,00 to 17,Female,"Some college, less than 4-yr degree",1500024999,1780.0
+2009,18 to 64,Male,No high school diploma,,280947.0
+2009,18 to 64,Male,No high school diploma,50009999,229865.0
+2009,18 to 64,Male,No high school diploma,1000014999,278224.0
+2009,18 to 64,Male,No high school diploma,1500024999,534542.0
+2009,18 to 64,Male,No high school diploma,2500034999,307653.0
+2009,18 to 64,Male,No high school diploma,3500049999,247159.0
+2009,18 to 64,Male,No high school diploma,5000074999,79922.0
+2009,18 to 64,Male,No high school diploma,75000,48803.0
+2009,18 to 64,Male,High school or equivalent,,296927.0
+2009,18 to 64,Male,High school or equivalent,50009999,216871.0
+2009,18 to 64,Male,High school or equivalent,1000014999,213345.0
+2009,18 to 64,Male,High school or equivalent,1500024999,503750.0
+2009,18 to 64,Male,High school or equivalent,2500034999,440200.0
+2009,18 to 64,Male,High school or equivalent,3500049999,481130.0
+2009,18 to 64,Male,High school or equivalent,5000074999,350784.0
+2009,18 to 64,Male,High school or equivalent,75000,190948.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",,212039.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",50009999,235730.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,288174.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,392488.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,375408.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,486983.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,584200.0
+2009,18 to 64,Male,"Some college, less than 4-yr degree",75000,521502.0
+2009,18 to 64,Male,Bachelor's degree or higher,,88688.0
+2009,18 to 64,Male,Bachelor's degree or higher,50009999,70367.0
+2009,18 to 64,Male,Bachelor's degree or higher,1000014999,84122.0
+2009,18 to 64,Male,Bachelor's degree or higher,1500024999,201713.0
+2009,18 to 64,Male,Bachelor's degree or higher,2500034999,251200.0
+2009,18 to 64,Male,Bachelor's degree or higher,3500049999,366170.0
+2009,18 to 64,Male,Bachelor's degree or higher,5000074999,682775.0
+2009,18 to 64,Male,Bachelor's degree or higher,75000,1497839.0
+2009,18 to 64,Female,No high school diploma,,654156.0
+2009,18 to 64,Female,No high school diploma,50009999,248027.0
+2009,18 to 64,Female,No high school diploma,1000014999,255296.0
+2009,18 to 64,Female,No high school diploma,1500024999,359624.0
+2009,18 to 64,Female,No high school diploma,2500034999,86580.0
+2009,18 to 64,Female,No high school diploma,3500049999,30741.0
+2009,18 to 64,Female,No high school diploma,5000074999,24592.0
+2009,18 to 64,Female,No high school diploma,75000,10943.0
+2009,18 to 64,Female,High school or equivalent,,519946.0
+2009,18 to 64,Female,High school or equivalent,50009999,234527.0
+2009,18 to 64,Female,High school or equivalent,1000014999,221787.0
+2009,18 to 64,Female,High school or equivalent,1500024999,450205.0
+2009,18 to 64,Female,High school or equivalent,2500034999,318602.0
+2009,18 to 64,Female,High school or equivalent,3500049999,234705.0
+2009,18 to 64,Female,High school or equivalent,5000074999,134763.0
+2009,18 to 64,Female,High school or equivalent,75000,57292.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",,387007.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",50009999,345944.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,370518.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,647024.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,454455.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,459975.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,347119.0
+2009,18 to 64,Female,"Some college, less than 4-yr degree",75000,200198.0
+2009,18 to 64,Female,Bachelor's degree or higher,,243154.0
+2009,18 to 64,Female,Bachelor's degree or higher,50009999,160748.0
+2009,18 to 64,Female,Bachelor's degree or higher,1000014999,136360.0
+2009,18 to 64,Female,Bachelor's degree or higher,1500024999,311511.0
+2009,18 to 64,Female,Bachelor's degree or higher,2500034999,320129.0
+2009,18 to 64,Female,Bachelor's degree or higher,3500049999,495664.0
+2009,18 to 64,Female,Bachelor's degree or higher,5000074999,767013.0
+2009,18 to 64,Female,Bachelor's degree or higher,75000,682401.0
+2009,65 to 80+,Male,No high school diploma,,18196.0
+2009,65 to 80+,Male,No high school diploma,50009999,71415.0
+2009,65 to 80+,Male,No high school diploma,1000014999,98666.0
+2009,65 to 80+,Male,No high school diploma,1500024999,72908.0
+2009,65 to 80+,Male,No high school diploma,2500034999,41437.0
+2009,65 to 80+,Male,No high school diploma,3500049999,24599.0
+2009,65 to 80+,Male,No high school diploma,5000074999,18475.0
+2009,65 to 80+,Male,No high school diploma,75000,2915.0
+2009,65 to 80+,Male,High school or equivalent,,11528.0
+2009,65 to 80+,Male,High school or equivalent,50009999,37770.0
+2009,65 to 80+,Male,High school or equivalent,1000014999,71193.0
+2009,65 to 80+,Male,High school or equivalent,1500024999,64082.0
+2009,65 to 80+,Male,High school or equivalent,2500034999,50987.0
+2009,65 to 80+,Male,High school or equivalent,3500049999,59302.0
+2009,65 to 80+,Male,High school or equivalent,5000074999,35227.0
+2009,65 to 80+,Male,High school or equivalent,75000,23963.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",,17061.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,23224.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,30456.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,88779.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,55910.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,69546.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,39410.0
+2009,65 to 80+,Male,"Some college, less than 4-yr degree",75000,58478.0
+2009,65 to 80+,Male,Bachelor's degree or higher,,6660.0
+2009,65 to 80+,Male,Bachelor's degree or higher,50009999,34492.0
+2009,65 to 80+,Male,Bachelor's degree or higher,1000014999,36484.0
+2009,65 to 80+,Male,Bachelor's degree or higher,1500024999,52607.0
+2009,65 to 80+,Male,Bachelor's degree or higher,2500034999,76215.0
+2009,65 to 80+,Male,Bachelor's degree or higher,3500049999,77792.0
+2009,65 to 80+,Male,Bachelor's degree or higher,5000074999,109490.0
+2009,65 to 80+,Male,Bachelor's degree or higher,75000,212440.0
+2009,65 to 80+,Female,No high school diploma,,73024.0
+2009,65 to 80+,Female,No high school diploma,50009999,178289.0
+2009,65 to 80+,Female,No high school diploma,1000014999,149933.0
+2009,65 to 80+,Female,No high school diploma,1500024999,64958.0
+2009,65 to 80+,Female,No high school diploma,2500034999,20186.0
+2009,65 to 80+,Female,No high school diploma,3500049999,4060.0
+2009,65 to 80+,Female,No high school diploma,5000074999,7703.0
+2009,65 to 80+,Female,No high school diploma,75000,1398.0
+2009,65 to 80+,Female,High school or equivalent,,43907.0
+2009,65 to 80+,Female,High school or equivalent,50009999,116176.0
+2009,65 to 80+,Female,High school or equivalent,1000014999,151357.0
+2009,65 to 80+,Female,High school or equivalent,1500024999,152036.0
+2009,65 to 80+,Female,High school or equivalent,2500034999,58811.0
+2009,65 to 80+,Female,High school or equivalent,3500049999,27349.0
+2009,65 to 80+,Female,High school or equivalent,5000074999,42710.0
+2009,65 to 80+,Female,High school or equivalent,75000,19659.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",,12106.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,75617.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,89119.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,140082.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,81764.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,59529.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,57036.0
+2009,65 to 80+,Female,"Some college, less than 4-yr degree",75000,33358.0
+2009,65 to 80+,Female,Bachelor's degree or higher,,10741.0
+2009,65 to 80+,Female,Bachelor's degree or higher,50009999,57811.0
+2009,65 to 80+,Female,Bachelor's degree or higher,1000014999,70495.0
+2009,65 to 80+,Female,Bachelor's degree or higher,1500024999,85667.0
+2009,65 to 80+,Female,Bachelor's degree or higher,2500034999,58901.0
+2009,65 to 80+,Female,Bachelor's degree or higher,3500049999,68234.0
+2009,65 to 80+,Female,Bachelor's degree or higher,5000074999,61489.0
+2009,65 to 80+,Female,Bachelor's degree or higher,75000,57029.0
+2010,00 to 17,Male,Children under 15,,
+2010,00 to 17,Male,No high school diploma,,596761.0
+2010,00 to 17,Male,No high school diploma,50009999,21116.0
+2010,00 to 17,Male,No high school diploma,1000014999,5345.0
+2010,00 to 17,Male,No high school diploma,1500024999,9139.0
+2010,00 to 17,Male,No high school diploma,3500049999,3642.0
+2010,00 to 17,Male,High school or equivalent,,
+2010,00 to 17,Male,High school or equivalent,1000014999,1817.0
+2010,00 to 17,Male,"Some college, less than 4-yr degree",,
+2010,00 to 17,Male,"Some college, less than 4-yr degree",50009999,2683.0
+2010,00 to 17,Male,"Some college, less than 4-yr degree",1500024999,1434.0
+2010,00 to 17,Male,"Some college, less than 4-yr degree",2500034999,1447.0
+2010,00 to 17,Male,Bachelor's degree or higher,,
+2010,00 to 17,Male,Bachelor's degree or higher,75000,1192.0
+2010,00 to 17,Female,Children under 15,,
+2010,00 to 17,Female,No high school diploma,,610512.0
+2010,00 to 17,Female,No high school diploma,50009999,24781.0
+2010,00 to 17,Female,No high school diploma,1000014999,6967.0
+2010,00 to 17,Female,No high school diploma,1500024999,6386.0
+2010,00 to 17,Female,High school or equivalent,,5811.0
+2010,00 to 17,Female,High school or equivalent,50009999,3641.0
+2010,00 to 17,Female,High school or equivalent,1000014999,1660.0
+2010,00 to 17,Female,High school or equivalent,2500034999,1048.0
+2010,00 to 17,Female,"Some college, less than 4-yr degree",1500024999,
+2010,00 to 17,Female,Bachelor's degree or higher,,2879.0
+2010,18 to 64,Male,No high school diploma,,369566.0
+2010,18 to 64,Male,No high school diploma,50009999,226209.0
+2010,18 to 64,Male,No high school diploma,1000014999,295536.0
+2010,18 to 64,Male,No high school diploma,1500024999,535027.0
+2010,18 to 64,Male,No high school diploma,2500034999,244978.0
+2010,18 to 64,Male,No high school diploma,3500049999,192622.0
+2010,18 to 64,Male,No high school diploma,5000074999,93885.0
+2010,18 to 64,Male,No high school diploma,75000,38266.0
+2010,18 to 64,Male,High school or equivalent,,345253.0
+2010,18 to 64,Male,High school or equivalent,50009999,190829.0
+2010,18 to 64,Male,High school or equivalent,1000014999,209509.0
+2010,18 to 64,Male,High school or equivalent,1500024999,533513.0
+2010,18 to 64,Male,High school or equivalent,2500034999,412122.0
+2010,18 to 64,Male,High school or equivalent,3500049999,470369.0
+2010,18 to 64,Male,High school or equivalent,5000074999,339017.0
+2010,18 to 64,Male,High school or equivalent,75000,215851.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",,310460.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",50009999,220408.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,234677.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,356706.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,374227.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,474116.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,581119.0
+2010,18 to 64,Male,"Some college, less than 4-yr degree",75000,441967.0
+2010,18 to 64,Male,Bachelor's degree or higher,,108052.0
+2010,18 to 64,Male,Bachelor's degree or higher,50009999,79453.0
+2010,18 to 64,Male,Bachelor's degree or higher,1000014999,127848.0
+2010,18 to 64,Male,Bachelor's degree or higher,1500024999,234951.0
+2010,18 to 64,Male,Bachelor's degree or higher,2500034999,239971.0
+2010,18 to 64,Male,Bachelor's degree or higher,3500049999,408505.0
+2010,18 to 64,Male,Bachelor's degree or higher,5000074999,624308.0
+2010,18 to 64,Male,Bachelor's degree or higher,75000,1424758.0
+2010,18 to 64,Female,No high school diploma,,666858.0
+2010,18 to 64,Female,No high school diploma,50009999,236424.0
+2010,18 to 64,Female,No high school diploma,1000014999,253247.0
+2010,18 to 64,Female,No high school diploma,1500024999,287963.0
+2010,18 to 64,Female,No high school diploma,2500034999,107504.0
+2010,18 to 64,Female,No high school diploma,3500049999,35129.0
+2010,18 to 64,Female,No high school diploma,5000074999,18515.0
+2010,18 to 64,Female,No high school diploma,75000,15038.0
+2010,18 to 64,Female,High school or equivalent,,496567.0
+2010,18 to 64,Female,High school or equivalent,50009999,252271.0
+2010,18 to 64,Female,High school or equivalent,1000014999,276576.0
+2010,18 to 64,Female,High school or equivalent,1500024999,436288.0
+2010,18 to 64,Female,High school or equivalent,2500034999,363540.0
+2010,18 to 64,Female,High school or equivalent,3500049999,225261.0
+2010,18 to 64,Female,High school or equivalent,5000074999,136694.0
+2010,18 to 64,Female,High school or equivalent,75000,43721.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",,443607.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",50009999,374128.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,386929.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,567753.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,491109.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,442917.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,321434.0
+2010,18 to 64,Female,"Some college, less than 4-yr degree",75000,184398.0
+2010,18 to 64,Female,Bachelor's degree or higher,,269680.0
+2010,18 to 64,Female,Bachelor's degree or higher,50009999,168951.0
+2010,18 to 64,Female,Bachelor's degree or higher,1000014999,133220.0
+2010,18 to 64,Female,Bachelor's degree or higher,1500024999,325516.0
+2010,18 to 64,Female,Bachelor's degree or higher,2500034999,305706.0
+2010,18 to 64,Female,Bachelor's degree or higher,3500049999,516029.0
+2010,18 to 64,Female,Bachelor's degree or higher,5000074999,687153.0
+2010,18 to 64,Female,Bachelor's degree or higher,75000,755781.0
+2010,65 to 80+,Male,No high school diploma,,18733.0
+2010,65 to 80+,Male,No high school diploma,50009999,75130.0
+2010,65 to 80+,Male,No high school diploma,1000014999,81385.0
+2010,65 to 80+,Male,No high school diploma,1500024999,81088.0
+2010,65 to 80+,Male,No high school diploma,2500034999,28729.0
+2010,65 to 80+,Male,No high school diploma,3500049999,27814.0
+2010,65 to 80+,Male,No high school diploma,5000074999,13619.0
+2010,65 to 80+,Male,No high school diploma,75000,8432.0
+2010,65 to 80+,Male,High school or equivalent,,24958.0
+2010,65 to 80+,Male,High school or equivalent,50009999,30722.0
+2010,65 to 80+,Male,High school or equivalent,1000014999,67289.0
+2010,65 to 80+,Male,High school or equivalent,1500024999,79553.0
+2010,65 to 80+,Male,High school or equivalent,2500034999,62167.0
+2010,65 to 80+,Male,High school or equivalent,3500049999,38792.0
+2010,65 to 80+,Male,High school or equivalent,5000074999,51319.0
+2010,65 to 80+,Male,High school or equivalent,75000,20167.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",,9228.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,23578.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,60002.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,98499.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,73522.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,46221.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,39453.0
+2010,65 to 80+,Male,"Some college, less than 4-yr degree",75000,51157.0
+2010,65 to 80+,Male,Bachelor's degree or higher,,14892.0
+2010,65 to 80+,Male,Bachelor's degree or higher,50009999,28867.0
+2010,65 to 80+,Male,Bachelor's degree or higher,1000014999,45842.0
+2010,65 to 80+,Male,Bachelor's degree or higher,1500024999,111055.0
+2010,65 to 80+,Male,Bachelor's degree or higher,2500034999,85110.0
+2010,65 to 80+,Male,Bachelor's degree or higher,3500049999,64614.0
+2010,65 to 80+,Male,Bachelor's degree or higher,5000074999,103469.0
+2010,65 to 80+,Male,Bachelor's degree or higher,75000,192339.0
+2010,65 to 80+,Female,No high school diploma,,72036.0
+2010,65 to 80+,Female,No high school diploma,50009999,136110.0
+2010,65 to 80+,Female,No high school diploma,1000014999,146005.0
+2010,65 to 80+,Female,No high school diploma,1500024999,57098.0
+2010,65 to 80+,Female,No high school diploma,2500034999,11302.0
+2010,65 to 80+,Female,No high school diploma,3500049999,8907.0
+2010,65 to 80+,Female,No high school diploma,5000074999,8606.0
+2010,65 to 80+,Female,No high school diploma,75000,4876.0
+2010,65 to 80+,Female,High school or equivalent,,38084.0
+2011,00 to 17,Female,Children under 15,,
+2010,65 to 80+,Female,High school or equivalent,50009999,138923.0
+2010,65 to 80+,Female,High school or equivalent,1000014999,141254.0
+2010,65 to 80+,Female,High school or equivalent,1500024999,138952.0
+2010,65 to 80+,Female,High school or equivalent,2500034999,58847.0
+2010,65 to 80+,Female,High school or equivalent,3500049999,40875.0
+2010,65 to 80+,Female,High school or equivalent,5000074999,35909.0
+2010,65 to 80+,Female,High school or equivalent,75000,22945.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",,25882.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,104478.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,90675.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,152795.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,73450.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,55103.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,41076.0
+2010,65 to 80+,Female,"Some college, less than 4-yr degree",75000,30088.0
+2010,65 to 80+,Female,Bachelor's degree or higher,,28702.0
+2010,65 to 80+,Female,Bachelor's degree or higher,50009999,75754.0
+2010,65 to 80+,Female,Bachelor's degree or higher,1000014999,82404.0
+2010,65 to 80+,Female,Bachelor's degree or higher,1500024999,107427.0
+2010,65 to 80+,Female,Bachelor's degree or higher,2500034999,65563.0
+2010,65 to 80+,Female,Bachelor's degree or higher,3500049999,76520.0
+2010,65 to 80+,Female,Bachelor's degree or higher,5000074999,78561.0
+2010,65 to 80+,Female,Bachelor's degree or higher,75000,73833.0
+2011,00 to 17,Male,Children under 15,,
+2011,00 to 17,Male,No high school diploma,,679824.0
+2011,00 to 17,Male,No high school diploma,50009999,22729.0
+2011,00 to 17,Male,No high school diploma,1000014999,9049.0
+2011,00 to 17,Male,No high school diploma,1500024999,10327.0
+2011,00 to 17,Male,No high school diploma,2500034999,3220.0
+2011,00 to 17,Male,No high school diploma,3500049999,1647.0
+2011,00 to 17,Male,High school or equivalent,,5434.0
+2011,00 to 17,Male,High school or equivalent,1000014999,1328.0
+2011,00 to 17,Male,High school or equivalent,1500024999,1312.0
+2011,00 to 17,Male,"Some college, less than 4-yr degree",,4421.0
+2011,00 to 17,Male,"Some college, less than 4-yr degree",50009999,1324.0
+2011,00 to 17,Male,"Some college, less than 4-yr degree",2500034999,1209.0
+2011,00 to 17,Male,"Some college, less than 4-yr degree",75000,1618.0
+2011,00 to 17,Male,Bachelor's degree or higher,,
+2011,00 to 17,Male,Bachelor's degree or higher,1000014999,2394.0
+2011,00 to 17,Female,No high school diploma,,634048.0
+2011,00 to 17,Female,No high school diploma,50009999,25907.0
+2011,00 to 17,Female,No high school diploma,1000014999,13283.0
+2011,00 to 17,Female,High school or equivalent,,6903.0
+2011,00 to 17,Female,High school or equivalent,1000014999,2561.0
+2011,00 to 17,Female,"Some college, less than 4-yr degree",,4089.0
+2011,00 to 17,Female,"Some college, less than 4-yr degree",50009999,4503.0
+2011,00 to 17,Female,"Some college, less than 4-yr degree",5000074999,1614.0
+2011,00 to 17,Female,Bachelor's degree or higher,,
+2011,00 to 17,Female,Bachelor's degree or higher,1500024999,2859.0
+2011,18 to 64,Male,No high school diploma,,359401.0
+2011,18 to 64,Male,No high school diploma,50009999,177781.0
+2011,18 to 64,Male,No high school diploma,1000014999,288850.0
+2011,18 to 64,Male,No high school diploma,1500024999,546856.0
+2011,18 to 64,Male,No high school diploma,2500034999,295383.0
+2011,18 to 64,Male,No high school diploma,3500049999,175841.0
+2011,18 to 64,Male,No high school diploma,5000074999,100776.0
+2011,18 to 64,Male,No high school diploma,75000,38335.0
+2011,18 to 64,Male,High school or equivalent,,450644.0
+2011,18 to 64,Male,High school or equivalent,50009999,179616.0
+2011,18 to 64,Male,High school or equivalent,1000014999,264534.0
+2011,18 to 64,Male,High school or equivalent,1500024999,519889.0
+2011,18 to 64,Male,High school or equivalent,2500034999,422294.0
+2011,18 to 64,Male,High school or equivalent,3500049999,477882.0
+2011,18 to 64,Male,High school or equivalent,5000074999,387890.0
+2011,18 to 64,Male,High school or equivalent,75000,188373.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",,331991.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",50009999,231167.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,288293.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,412679.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,353200.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,480546.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,489968.0
+2011,18 to 64,Male,"Some college, less than 4-yr degree",75000,462728.0
+2011,18 to 64,Male,Bachelor's degree or higher,,113687.0
+2011,18 to 64,Male,Bachelor's degree or higher,50009999,97326.0
+2011,18 to 64,Male,Bachelor's degree or higher,1000014999,126768.0
+2011,18 to 64,Male,Bachelor's degree or higher,1500024999,230412.0
+2011,18 to 64,Male,Bachelor's degree or higher,2500034999,248724.0
+2011,18 to 64,Male,Bachelor's degree or higher,3500049999,331666.0
+2011,18 to 64,Male,Bachelor's degree or higher,5000074999,644826.0
+2011,18 to 64,Male,Bachelor's degree or higher,75000,1396795.0
+2011,18 to 64,Female,No high school diploma,,748885.0
+2011,18 to 64,Female,No high school diploma,50009999,246973.0
+2011,18 to 64,Female,No high school diploma,1000014999,273029.0
+2011,18 to 64,Female,No high school diploma,1500024999,301428.0
+2011,18 to 64,Female,No high school diploma,2500034999,91755.0
+2011,18 to 64,Female,No high school diploma,3500049999,57985.0
+2011,18 to 64,Female,No high school diploma,5000074999,18925.0
+2011,18 to 64,Female,No high school diploma,75000,7168.0
+2011,18 to 64,Female,High school or equivalent,,575559.0
+2011,18 to 64,Female,High school or equivalent,50009999,291364.0
+2011,18 to 64,Female,High school or equivalent,1000014999,305265.0
+2011,18 to 64,Female,High school or equivalent,1500024999,425683.0
+2011,18 to 64,Female,High school or equivalent,2500034999,323001.0
+2011,18 to 64,Female,High school or equivalent,3500049999,311597.0
+2011,18 to 64,Female,High school or equivalent,5000074999,139946.0
+2011,18 to 64,Female,High school or equivalent,75000,51155.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",,525597.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",50009999,367713.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,368797.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,542492.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,460822.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,427109.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,323702.0
+2011,18 to 64,Female,"Some college, less than 4-yr degree",75000,194826.0
+2011,18 to 64,Female,Bachelor's degree or higher,,266304.0
+2011,18 to 64,Female,Bachelor's degree or higher,50009999,121211.0
+2011,18 to 64,Female,Bachelor's degree or higher,1000014999,170533.0
+2011,18 to 64,Female,Bachelor's degree or higher,1500024999,314317.0
+2011,18 to 64,Female,Bachelor's degree or higher,2500034999,286343.0
+2011,18 to 64,Female,Bachelor's degree or higher,3500049999,483781.0
+2011,18 to 64,Female,Bachelor's degree or higher,5000074999,676522.0
+2011,18 to 64,Female,Bachelor's degree or higher,75000,777479.0
+2011,65 to 80+,Male,No high school diploma,,27629.0
+2011,65 to 80+,Male,No high school diploma,50009999,63343.0
+2011,65 to 80+,Male,No high school diploma,1000014999,86809.0
+2011,65 to 80+,Male,No high school diploma,1500024999,80402.0
+2011,65 to 80+,Male,No high school diploma,2500034999,21236.0
+2011,65 to 80+,Male,No high school diploma,3500049999,20806.0
+2011,65 to 80+,Male,No high school diploma,5000074999,5966.0
+2011,65 to 80+,Male,No high school diploma,75000,1686.0
+2011,65 to 80+,Male,High school or equivalent,,25812.0
+2011,65 to 80+,Male,High school or equivalent,50009999,16777.0
+2011,65 to 80+,Male,High school or equivalent,1000014999,82082.0
+2011,65 to 80+,Male,High school or equivalent,1500024999,107748.0
+2011,65 to 80+,Male,High school or equivalent,2500034999,64250.0
+2011,65 to 80+,Male,High school or equivalent,3500049999,34214.0
+2011,65 to 80+,Male,High school or equivalent,5000074999,38236.0
+2011,65 to 80+,Male,High school or equivalent,75000,9363.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",,15250.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,37367.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,66646.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,100794.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,71541.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,54755.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,53447.0
+2011,65 to 80+,Male,"Some college, less than 4-yr degree",75000,64832.0
+2011,65 to 80+,Male,Bachelor's degree or higher,,21851.0
+2011,65 to 80+,Male,Bachelor's degree or higher,50009999,28190.0
+2011,65 to 80+,Male,Bachelor's degree or higher,1000014999,47668.0
+2011,65 to 80+,Male,Bachelor's degree or higher,1500024999,106705.0
+2011,65 to 80+,Male,Bachelor's degree or higher,2500034999,92725.0
+2011,65 to 80+,Male,Bachelor's degree or higher,3500049999,87337.0
+2011,65 to 80+,Male,Bachelor's degree or higher,5000074999,148745.0
+2011,65 to 80+,Male,Bachelor's degree or higher,75000,175775.0
+2011,65 to 80+,Female,No high school diploma,,77617.0
+2011,65 to 80+,Female,No high school diploma,50009999,175975.0
+2011,65 to 80+,Female,No high school diploma,1000014999,152780.0
+2011,65 to 80+,Female,No high school diploma,1500024999,68997.0
+2011,65 to 80+,Female,No high school diploma,2500034999,13821.0
+2011,65 to 80+,Female,No high school diploma,3500049999,10588.0
+2011,65 to 80+,Female,No high school diploma,5000074999,6419.0
+2011,65 to 80+,Female,No high school diploma,75000,2190.0
+2011,65 to 80+,Female,High school or equivalent,,43062.0
+2011,65 to 80+,Female,High school or equivalent,50009999,140300.0
+2011,65 to 80+,Female,High school or equivalent,1000014999,125104.0
+2011,65 to 80+,Female,High school or equivalent,1500024999,148331.0
+2011,65 to 80+,Female,High school or equivalent,2500034999,65587.0
+2011,65 to 80+,Female,High school or equivalent,3500049999,52376.0
+2011,65 to 80+,Female,High school or equivalent,5000074999,27438.0
+2011,65 to 80+,Female,High school or equivalent,75000,10372.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",,29080.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,107745.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,102391.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,152093.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,88513.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,43331.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,25292.0
+2011,65 to 80+,Female,"Some college, less than 4-yr degree",75000,33485.0
+2011,65 to 80+,Female,Bachelor's degree or higher,,25829.0
+2011,65 to 80+,Female,Bachelor's degree or higher,50009999,49166.0
+2011,65 to 80+,Female,Bachelor's degree or higher,1000014999,67525.0
+2011,65 to 80+,Female,Bachelor's degree or higher,1500024999,114697.0
+2011,65 to 80+,Female,Bachelor's degree or higher,2500034999,80989.0
+2011,65 to 80+,Female,Bachelor's degree or higher,3500049999,58285.0
+2011,65 to 80+,Female,Bachelor's degree or higher,5000074999,90812.0
+2011,65 to 80+,Female,Bachelor's degree or higher,75000,75921.0
+2012,00 to 17,Male,Children under 15,,
+2012,00 to 17,Male,No high school diploma,,705113.0
+2012,00 to 17,Male,No high school diploma,50009999,28609.0
+2012,00 to 17,Male,No high school diploma,1000014999,4166.0
+2012,00 to 17,Male,No high school diploma,1500024999,9647.0
+2012,00 to 17,Male,No high school diploma,2500034999,1104.0
+2012,00 to 17,Male,No high school diploma,3500049999,1636.0
+2012,00 to 17,Male,High school or equivalent,,
+2012,00 to 17,Male,"Some college, less than 4-yr degree",,
+2012,00 to 17,Male,"Some college, less than 4-yr degree",1000014999,3208.0
+2012,00 to 17,Male,Bachelor's degree or higher,,1680.0
+2012,00 to 17,Female,Children under 15,,
+2012,00 to 17,Female,No high school diploma,,641084.0
+2012,00 to 17,Female,No high school diploma,50009999,27841.0
+2012,00 to 17,Female,No high school diploma,1000014999,5318.0
+2012,00 to 17,Female,No high school diploma,1500024999,2075.0
+2012,00 to 17,Female,No high school diploma,75000,1553.0
+2012,00 to 17,Female,High school or equivalent,,6291.0
+2012,00 to 17,Female,"Some college, less than 4-yr degree",,4102.0
+2012,00 to 17,Female,"Some college, less than 4-yr degree",50009999,1871.0
+2012,00 to 17,Female,"Some college, less than 4-yr degree",1000014999,2046.0
+2012,00 to 17,Female,"Some college, less than 4-yr degree",1500024999,1198.0
+2012,00 to 17,Female,Bachelor's degree or higher,,
+2012,00 to 17,Female,Bachelor's degree or higher,2500034999,1198.0
+2012,18 to 64,Male,No high school diploma,,357363.0
+2012,18 to 64,Male,No high school diploma,50009999,234399.0
+2012,18 to 64,Male,No high school diploma,1000014999,296619.0
+2012,18 to 64,Male,No high school diploma,1500024999,478466.0
+2012,18 to 64,Male,No high school diploma,2500034999,285220.0
+2012,18 to 64,Male,No high school diploma,3500049999,220388.0
+2012,18 to 64,Male,No high school diploma,5000074999,85944.0
+2012,18 to 64,Male,No high school diploma,75000,37162.0
+2012,18 to 64,Male,High school or equivalent,,453889.0
+2012,18 to 64,Male,High school or equivalent,50009999,223998.0
+2012,18 to 64,Male,High school or equivalent,1000014999,291838.0
+2012,18 to 64,Male,High school or equivalent,1500024999,533300.0
+2012,18 to 64,Male,High school or equivalent,2500034999,403456.0
+2012,18 to 64,Male,High school or equivalent,3500049999,430104.0
+2012,18 to 64,Male,High school or equivalent,5000074999,387094.0
+2012,18 to 64,Male,High school or equivalent,75000,168064.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",,385337.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",50009999,295051.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,254478.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,457806.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,366349.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,438565.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,449158.0
+2012,18 to 64,Male,"Some college, less than 4-yr degree",75000,477728.0
+2012,18 to 64,Male,Bachelor's degree or higher,,143162.0
+2012,18 to 64,Male,Bachelor's degree or higher,50009999,84310.0
+2012,18 to 64,Male,Bachelor's degree or higher,1000014999,92147.0
+2012,18 to 64,Male,Bachelor's degree or higher,1500024999,226292.0
+2012,18 to 64,Male,Bachelor's degree or higher,2500034999,229693.0
+2012,18 to 64,Male,Bachelor's degree or higher,3500049999,402570.0
+2012,18 to 64,Male,Bachelor's degree or higher,5000074999,552522.0
+2012,18 to 64,Male,Bachelor's degree or higher,75000,1511773.0
+2012,18 to 64,Female,No high school diploma,,719609.0
+2012,18 to 64,Female,No high school diploma,50009999,279793.0
+2012,18 to 64,Female,No high school diploma,1000014999,249688.0
+2012,18 to 64,Female,No high school diploma,1500024999,335644.0
+2012,18 to 64,Female,No high school diploma,2500034999,98037.0
+2012,18 to 64,Female,No high school diploma,3500049999,31925.0
+2012,18 to 64,Female,No high school diploma,5000074999,7581.0
+2012,18 to 64,Female,No high school diploma,75000,4142.0
+2012,18 to 64,Female,High school or equivalent,,569172.0
+2012,18 to 64,Female,High school or equivalent,50009999,289183.0
+2012,18 to 64,Female,High school or equivalent,1000014999,285836.0
+2012,18 to 64,Female,High school or equivalent,1500024999,478261.0
+2012,18 to 64,Female,High school or equivalent,2500034999,317656.0
+2012,18 to 64,Female,High school or equivalent,3500049999,255299.0
+2012,18 to 64,Female,High school or equivalent,5000074999,132765.0
+2012,18 to 64,Female,High school or equivalent,75000,55907.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",,544361.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",50009999,375121.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,364362.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,609758.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,456854.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,471354.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,340166.0
+2012,18 to 64,Female,"Some college, less than 4-yr degree",75000,200267.0
+2012,18 to 64,Female,Bachelor's degree or higher,,337101.0
+2012,18 to 64,Female,Bachelor's degree or higher,50009999,181728.0
+2012,18 to 64,Female,Bachelor's degree or higher,1000014999,147701.0
+2012,18 to 64,Female,Bachelor's degree or higher,1500024999,283574.0
+2012,18 to 64,Female,Bachelor's degree or higher,2500034999,310527.0
+2012,18 to 64,Female,Bachelor's degree or higher,3500049999,485498.0
+2012,18 to 64,Female,Bachelor's degree or higher,5000074999,684421.0
+2012,18 to 64,Female,Bachelor's degree or higher,75000,829905.0
+2012,65 to 80+,Male,No high school diploma,,43797.0
+2012,65 to 80+,Male,No high school diploma,50009999,66775.0
+2012,65 to 80+,Male,No high school diploma,1000014999,87788.0
+2012,65 to 80+,Male,No high school diploma,1500024999,75781.0
+2012,65 to 80+,Male,No high school diploma,2500034999,38125.0
+2012,65 to 80+,Male,No high school diploma,3500049999,19530.0
+2012,65 to 80+,Male,No high school diploma,5000074999,12515.0
+2012,65 to 80+,Male,No high school diploma,75000,7813.0
+2012,65 to 80+,Male,High school or equivalent,,
+2012,65 to 80+,Male,High school or equivalent,50009999,34505.0
+2012,65 to 80+,Male,High school or equivalent,1000014999,42768.0
+2012,65 to 80+,Male,High school or equivalent,1500024999,122757.0
+2012,65 to 80+,Male,High school or equivalent,2500034999,63083.0
+2012,65 to 80+,Male,High school or equivalent,3500049999,62391.0
+2012,65 to 80+,Male,High school or equivalent,5000074999,21505.0
+2012,65 to 80+,Male,High school or equivalent,75000,21430.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",,6274.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,27496.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,62706.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,106452.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,81133.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,74258.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,61326.0
+2012,65 to 80+,Male,"Some college, less than 4-yr degree",75000,59412.0
+2012,65 to 80+,Male,Bachelor's degree or higher,,14562.0
+2012,65 to 80+,Male,Bachelor's degree or higher,50009999,16823.0
+2012,65 to 80+,Male,Bachelor's degree or higher,1000014999,39590.0
+2012,65 to 80+,Male,Bachelor's degree or higher,1500024999,106794.0
+2012,65 to 80+,Male,Bachelor's degree or higher,2500034999,107542.0
+2012,65 to 80+,Male,Bachelor's degree or higher,3500049999,91063.0
+2012,65 to 80+,Male,Bachelor's degree or higher,5000074999,136530.0
+2012,65 to 80+,Male,Bachelor's degree or higher,75000,207930.0
+2012,65 to 80+,Female,No high school diploma,,78939.0
+2012,65 to 80+,Female,No high school diploma,50009999,171363.0
+2012,65 to 80+,Female,No high school diploma,1000014999,128893.0
+2012,65 to 80+,Female,No high school diploma,1500024999,93246.0
+2012,65 to 80+,Female,No high school diploma,2500034999,8966.0
+2012,65 to 80+,Female,No high school diploma,3500049999,9325.0
+2012,65 to 80+,Female,No high school diploma,5000074999,9308.0
+2012,65 to 80+,Female,High school or equivalent,,40812.0
+2012,65 to 80+,Female,High school or equivalent,50009999,138731.0
+2012,65 to 80+,Female,High school or equivalent,1000014999,168905.0
+2012,65 to 80+,Female,High school or equivalent,1500024999,202994.0
+2012,65 to 80+,Female,High school or equivalent,2500034999,65999.0
+2012,65 to 80+,Female,High school or equivalent,3500049999,43410.0
+2012,65 to 80+,Female,High school or equivalent,5000074999,35359.0
+2012,65 to 80+,Female,High school or equivalent,75000,26205.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",,28392.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,57101.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,103317.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,146503.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,84364.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,34919.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,43737.0
+2012,65 to 80+,Female,"Some college, less than 4-yr degree",75000,23888.0
+2012,65 to 80+,Female,Bachelor's degree or higher,,11184.0
+2012,65 to 80+,Female,Bachelor's degree or higher,50009999,61123.0
+2012,65 to 80+,Female,Bachelor's degree or higher,1000014999,71204.0
+2012,65 to 80+,Female,Bachelor's degree or higher,1500024999,81556.0
+2012,65 to 80+,Female,Bachelor's degree or higher,2500034999,68744.0
+2012,65 to 80+,Female,Bachelor's degree or higher,3500049999,99010.0
+2012,65 to 80+,Female,Bachelor's degree or higher,5000074999,75288.0
+2012,65 to 80+,Female,Bachelor's degree or higher,75000,71088.0
+2013,00 to 17,Male,Children under 15,,
+2013,00 to 17,Male,No high school diploma,,660627.0
+2013,00 to 17,Male,No high school diploma,50009999,14929.0
+2013,00 to 17,Male,No high school diploma,1000014999,4907.0
+2013,00 to 17,Male,No high school diploma,1500024999,6336.0
+2013,00 to 17,Male,No high school diploma,2500034999,1435.0
+2013,00 to 17,Male,High school or equivalent,,
+2013,00 to 17,Male,High school or equivalent,50009999,1405.0
+2013,00 to 17,Male,"Some college, less than 4-yr degree",50009999,
+2013,00 to 17,Male,"Some college, less than 4-yr degree",1000014999,2212.0
+2013,00 to 17,Female,Children under 15,,
+2013,00 to 17,Female,No high school diploma,,652219.0
+2013,00 to 17,Female,No high school diploma,50009999,21792.0
+2013,00 to 17,Female,No high school diploma,1000014999,10299.0
+2013,00 to 17,Female,No high school diploma,1500024999,5073.0
+2013,00 to 17,Female,High school or equivalent,,8651.0
+2013,00 to 17,Female,High school or equivalent,50009999,8226.0
+2013,00 to 17,Female,"Some college, less than 4-yr degree",,4419.0
+2013,00 to 17,Female,"Some college, less than 4-yr degree",1000014999,1956.0
+2013,00 to 17,Female,"Some college, less than 4-yr degree",1500024999,1689.0
+2013,00 to 17,Female,"Some college, less than 4-yr degree",3500049999,1283.0
+2013,00 to 17,Female,Bachelor's degree or higher,1500024999,
+2013,18 to 64,Male,No high school diploma,,348812.0
+2013,18 to 64,Male,No high school diploma,50009999,209881.0
+2013,18 to 64,Male,No high school diploma,1000014999,248722.0
+2013,18 to 64,Male,No high school diploma,1500024999,473160.0
+2013,18 to 64,Male,No high school diploma,2500034999,287918.0
+2013,18 to 64,Male,No high school diploma,3500049999,163709.0
+2013,18 to 64,Male,No high school diploma,5000074999,86281.0
+2013,18 to 64,Male,No high school diploma,75000,30760.0
+2013,18 to 64,Male,High school or equivalent,,372961.0
+2013,18 to 64,Male,High school or equivalent,50009999,184943.0
+2013,18 to 64,Male,High school or equivalent,1000014999,258773.0
+2013,18 to 64,Male,High school or equivalent,1500024999,425530.0
+2013,18 to 64,Male,High school or equivalent,2500034999,438925.0
+2013,18 to 64,Male,High school or equivalent,3500049999,456199.0
+2013,18 to 64,Male,High school or equivalent,5000074999,334524.0
+2013,18 to 64,Male,High school or equivalent,75000,235147.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",,356010.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",50009999,258589.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,287720.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,502982.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,432793.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,473400.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,449846.0
+2013,18 to 64,Male,"Some college, less than 4-yr degree",75000,490899.0
+2013,18 to 64,Male,Bachelor's degree or higher,,138459.0
+2013,18 to 64,Male,Bachelor's degree or higher,50009999,67986.0
+2013,18 to 64,Male,Bachelor's degree or higher,1000014999,125136.0
+2013,18 to 64,Male,Bachelor's degree or higher,1500024999,252257.0
+2013,18 to 64,Male,Bachelor's degree or higher,2500034999,282909.0
+2013,18 to 64,Male,Bachelor's degree or higher,3500049999,405494.0
+2013,18 to 64,Male,Bachelor's degree or higher,5000074999,599541.0
+2013,18 to 64,Male,Bachelor's degree or higher,75000,1643095.0
+2013,18 to 64,Female,No high school diploma,,637445.0
+2013,18 to 64,Female,No high school diploma,50009999,225537.0
+2013,18 to 64,Female,No high school diploma,1000014999,229231.0
+2013,18 to 64,Female,No high school diploma,1500024999,284092.0
+2013,18 to 64,Female,No high school diploma,2500034999,99143.0
+2013,18 to 64,Female,No high school diploma,3500049999,52571.0
+2013,18 to 64,Female,No high school diploma,5000074999,15944.0
+2013,18 to 64,Female,No high school diploma,75000,3886.0
+2013,18 to 64,Female,High school or equivalent,,664769.0
+2013,18 to 64,Female,High school or equivalent,50009999,245728.0
+2013,18 to 64,Female,High school or equivalent,1000014999,265604.0
+2013,18 to 64,Female,High school or equivalent,1500024999,466935.0
+2013,18 to 64,Female,High school or equivalent,2500034999,293672.0
+2013,18 to 64,Female,High school or equivalent,3500049999,238689.0
+2013,18 to 64,Female,High school or equivalent,5000074999,134465.0
+2013,18 to 64,Female,High school or equivalent,75000,61381.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",,531822.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",50009999,380107.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,384072.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,617513.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,453189.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,497833.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,399381.0
+2013,18 to 64,Female,"Some college, less than 4-yr degree",75000,200690.0
+2013,18 to 64,Female,Bachelor's degree or higher,,325064.0
+2013,18 to 64,Female,Bachelor's degree or higher,50009999,199405.0
+2013,18 to 64,Female,Bachelor's degree or higher,1000014999,160795.0
+2013,18 to 64,Female,Bachelor's degree or higher,1500024999,350595.0
+2013,18 to 64,Female,Bachelor's degree or higher,2500034999,340393.0
+2013,18 to 64,Female,Bachelor's degree or higher,3500049999,510047.0
+2013,18 to 64,Female,Bachelor's degree or higher,5000074999,675331.0
+2013,18 to 64,Female,Bachelor's degree or higher,75000,917079.0
+2013,65 to 80+,Male,No high school diploma,,32602.0
+2013,65 to 80+,Male,No high school diploma,50009999,75138.0
+2013,65 to 80+,Male,No high school diploma,1000014999,102504.0
+2013,65 to 80+,Male,No high school diploma,1500024999,59541.0
+2013,65 to 80+,Male,No high school diploma,2500034999,23400.0
+2013,65 to 80+,Male,No high school diploma,3500049999,21275.0
+2013,65 to 80+,Male,No high school diploma,5000074999,24001.0
+2013,65 to 80+,Male,High school or equivalent,,13764.0
+2013,65 to 80+,Male,High school or equivalent,50009999,41378.0
+2013,65 to 80+,Male,High school or equivalent,1000014999,53241.0
+2013,65 to 80+,Male,High school or equivalent,1500024999,112400.0
+2013,65 to 80+,Male,High school or equivalent,2500034999,74106.0
+2013,65 to 80+,Male,High school or equivalent,3500049999,52529.0
+2013,65 to 80+,Male,High school or equivalent,5000074999,26962.0
+2013,65 to 80+,Male,High school or equivalent,75000,26720.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",,4295.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,21398.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,38857.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,121937.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,90111.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,86950.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,72542.0
+2013,65 to 80+,Male,"Some college, less than 4-yr degree",75000,70476.0
+2013,65 to 80+,Male,Bachelor's degree or higher,,24761.0
+2013,65 to 80+,Male,Bachelor's degree or higher,50009999,33040.0
+2013,65 to 80+,Male,Bachelor's degree or higher,1000014999,40105.0
+2013,65 to 80+,Male,Bachelor's degree or higher,1500024999,125756.0
+2013,65 to 80+,Male,Bachelor's degree or higher,2500034999,89569.0
+2013,65 to 80+,Male,Bachelor's degree or higher,3500049999,88804.0
+2013,65 to 80+,Male,Bachelor's degree or higher,5000074999,122689.0
+2013,65 to 80+,Male,Bachelor's degree or higher,75000,250033.0
+2013,65 to 80+,Female,No high school diploma,,70893.0
+2013,65 to 80+,Female,No high school diploma,50009999,150694.0
+2013,65 to 80+,Female,No high school diploma,1000014999,177955.0
+2013,65 to 80+,Female,No high school diploma,1500024999,46652.0
+2013,65 to 80+,Female,No high school diploma,2500034999,11131.0
+2013,65 to 80+,Female,No high school diploma,3500049999,8609.0
+2013,65 to 80+,Female,No high school diploma,5000074999,7600.0
+2013,65 to 80+,Female,No high school diploma,75000,3026.0
+2013,65 to 80+,Female,High school or equivalent,,43226.0
+2013,65 to 80+,Female,High school or equivalent,50009999,112957.0
+2013,65 to 80+,Female,High school or equivalent,1000014999,194765.0
+2013,65 to 80+,Female,High school or equivalent,1500024999,221218.0
+2013,65 to 80+,Female,High school or equivalent,2500034999,36333.0
+2013,65 to 80+,Female,High school or equivalent,3500049999,29427.0
+2013,65 to 80+,Female,High school or equivalent,5000074999,20412.0
+2013,65 to 80+,Female,High school or equivalent,75000,8493.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",,13731.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,85075.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,131819.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,181219.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,56178.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,49614.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,57827.0
+2013,65 to 80+,Female,"Some college, less than 4-yr degree",75000,39607.0
+2013,65 to 80+,Female,Bachelor's degree or higher,,29147.0
+2013,65 to 80+,Female,Bachelor's degree or higher,50009999,48558.0
+2013,65 to 80+,Female,Bachelor's degree or higher,1000014999,87412.0
+2013,65 to 80+,Female,Bachelor's degree or higher,1500024999,94601.0
+2013,65 to 80+,Female,Bachelor's degree or higher,2500034999,58537.0
+2013,65 to 80+,Female,Bachelor's degree or higher,3500049999,49722.0
+2013,65 to 80+,Female,Bachelor's degree or higher,5000074999,70534.0
+2013,65 to 80+,Female,Bachelor's degree or higher,75000,94383.0
+2014,00 to 17,Male,Children under 15,,
+2014,00 to 17,Male,No high school diploma,,610313.0
+2014,00 to 17,Male,No high school diploma,50009999,26380.0
+2014,00 to 17,Male,No high school diploma,1000014999,11857.0
+2014,00 to 17,Male,No high school diploma,1500024999,3920.0
+2014,00 to 17,Male,High school or equivalent,,15741.0
+2014,00 to 17,Male,High school or equivalent,50009999,2048.0
+2014,00 to 17,Male,High school or equivalent,1000014999,4355.0
+2014,00 to 17,Male,"Some college, less than 4-yr degree",1500024999,1664.0
+2014,00 to 17,Female,Children under 15,,
+2014,00 to 17,Female,No high school diploma,,639596.0
+2014,00 to 17,Female,No high school diploma,50009999,15795.0
+2014,00 to 17,Female,No high school diploma,1000014999,13768.0
+2014,00 to 17,Female,No high school diploma,5000074999,3265.0
+2014,00 to 17,Female,High school or equivalent,,
+2014,00 to 17,Female,High school or equivalent,50009999,1583.0
+2014,00 to 17,Female,High school or equivalent,1500024999,3116.0
+2014,00 to 17,Female,High school or equivalent,2500034999,2190.0
+2014,00 to 17,Female,"Some college, less than 4-yr degree",,
+2014,00 to 17,Female,"Some college, less than 4-yr degree",50009999,1356.0
+2014,00 to 17,Female,"Some college, less than 4-yr degree",1500024999,2776.0
+2014,00 to 17,Female,Bachelor's degree or higher,1000014999,
+2014,00 to 17,Female,Bachelor's degree or higher,1500024999,2471.0
+2014,18 to 64,Male,No high school diploma,,376783.0
+2014,18 to 64,Male,No high school diploma,50009999,158572.0
+2014,18 to 64,Male,No high school diploma,1000014999,231957.0
+2014,18 to 64,Male,No high school diploma,1500024999,460129.0
+2014,18 to 64,Male,No high school diploma,2500034999,288460.0
+2014,18 to 64,Male,No high school diploma,3500049999,194888.0
+2014,18 to 64,Male,No high school diploma,5000074999,104646.0
+2014,18 to 64,Male,No high school diploma,75000,54734.0
+2014,18 to 64,Male,High school or equivalent,,405204.0
+2014,18 to 64,Male,High school or equivalent,50009999,238754.0
+2014,18 to 64,Male,High school or equivalent,1000014999,200365.0
+2014,18 to 64,Male,High school or equivalent,1500024999,520580.0
+2014,18 to 64,Male,High school or equivalent,2500034999,467906.0
+2014,18 to 64,Male,High school or equivalent,3500049999,418051.0
+2014,18 to 64,Male,High school or equivalent,5000074999,322511.0
+2014,18 to 64,Male,High school or equivalent,75000,227515.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",,343156.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",50009999,255129.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",1000014999,278291.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",1500024999,556174.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",2500034999,371185.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",3500049999,495675.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",5000074999,423087.0
+2014,18 to 64,Male,"Some college, less than 4-yr degree",75000,495187.0
+2014,18 to 64,Male,Bachelor's degree or higher,,181482.0
+2014,18 to 64,Male,Bachelor's degree or higher,50009999,86481.0
+2014,18 to 64,Male,Bachelor's degree or higher,1000014999,104462.0
+2014,18 to 64,Male,Bachelor's degree or higher,1500024999,233954.0
+2014,18 to 64,Male,Bachelor's degree or higher,2500034999,218789.0
+2014,18 to 64,Male,Bachelor's degree or higher,3500049999,357532.0
+2014,18 to 64,Male,Bachelor's degree or higher,5000074999,682425.0
+2014,18 to 64,Male,Bachelor's degree or higher,75000,1628605.0
+2014,18 to 64,Female,No high school diploma,,723208.0
+2014,18 to 64,Female,No high school diploma,50009999,239883.0
+2014,18 to 64,Female,No high school diploma,1000014999,189839.0
+2014,18 to 64,Female,No high school diploma,1500024999,277974.0
+2014,18 to 64,Female,No high school diploma,2500034999,120389.0
+2014,18 to 64,Female,No high school diploma,3500049999,43218.0
+2014,18 to 64,Female,No high school diploma,5000074999,14635.0
+2014,18 to 64,Female,No high school diploma,75000,2058.0
+2014,18 to 64,Female,High school or equivalent,,670294.0
+2014,18 to 64,Female,High school or equivalent,50009999,266348.0
+2014,18 to 64,Female,High school or equivalent,1000014999,272824.0
+2014,18 to 64,Female,High school or equivalent,1500024999,453432.0
+2014,18 to 64,Female,High school or equivalent,2500034999,318868.0
+2014,18 to 64,Female,High school or equivalent,3500049999,245318.0
+2014,18 to 64,Female,High school or equivalent,5000074999,128589.0
+2014,18 to 64,Female,High school or equivalent,75000,52375.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",,581907.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",50009999,404151.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",1000014999,389764.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",1500024999,483518.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",2500034999,528017.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",3500049999,469153.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",5000074999,344454.0
+2014,18 to 64,Female,"Some college, less than 4-yr degree",75000,155579.0
+2014,18 to 64,Female,Bachelor's degree or higher,,359264.0
+2014,18 to 64,Female,Bachelor's degree or higher,50009999,148975.0
+2014,18 to 64,Female,Bachelor's degree or higher,1000014999,206941.0
+2014,18 to 64,Female,Bachelor's degree or higher,1500024999,352744.0
+2014,18 to 64,Female,Bachelor's degree or higher,2500034999,340611.0
+2014,18 to 64,Female,Bachelor's degree or higher,3500049999,531019.0
+2014,18 to 64,Female,Bachelor's degree or higher,5000074999,660048.0
+2014,18 to 64,Female,Bachelor's degree or higher,75000,953282.0
+2014,65 to 80+,Male,No high school diploma,,31263.0
+2014,65 to 80+,Male,No high school diploma,50009999,40404.0
+2014,65 to 80+,Male,No high school diploma,1000014999,81810.0
+2014,65 to 80+,Male,No high school diploma,1500024999,76893.0
+2014,65 to 80+,Male,No high school diploma,2500034999,32058.0
+2014,65 to 80+,Male,No high school diploma,3500049999,15212.0
+2014,65 to 80+,Male,No high school diploma,5000074999,8569.0
+2014,65 to 80+,Male,No high school diploma,75000,2153.0
+2014,65 to 80+,Male,High school or equivalent,,28914.0
+2014,65 to 80+,Male,High school or equivalent,50009999,44824.0
+2014,65 to 80+,Male,High school or equivalent,1000014999,66527.0
+2014,65 to 80+,Male,High school or equivalent,1500024999,116746.0
+2014,65 to 80+,Male,High school or equivalent,2500034999,80555.0
+2014,65 to 80+,Male,High school or equivalent,3500049999,64170.0
+2014,65 to 80+,Male,High school or equivalent,5000074999,40307.0
+2014,65 to 80+,Male,High school or equivalent,75000,36180.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",,27344.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",50009999,15423.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",1000014999,45185.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",1500024999,101765.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",2500034999,96958.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",3500049999,83427.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",5000074999,53141.0
+2014,65 to 80+,Male,"Some college, less than 4-yr degree",75000,42633.0
+2014,65 to 80+,Male,Bachelor's degree or higher,,19286.0
+2014,65 to 80+,Male,Bachelor's degree or higher,50009999,28093.0
+2014,65 to 80+,Male,Bachelor's degree or higher,1000014999,36463.0
+2014,65 to 80+,Male,Bachelor's degree or higher,1500024999,103998.0
+2014,65 to 80+,Male,Bachelor's degree or higher,2500034999,74877.0
+2014,65 to 80+,Male,Bachelor's degree or higher,3500049999,120656.0
+2014,65 to 80+,Male,Bachelor's degree or higher,5000074999,154551.0
+2014,65 to 80+,Male,Bachelor's degree or higher,75000,294802.0
+2014,65 to 80+,Female,No high school diploma,,73275.0
+2014,65 to 80+,Female,No high school diploma,50009999,158180.0
+2014,65 to 80+,Female,No high school diploma,1000014999,161001.0
+2014,65 to 80+,Female,No high school diploma,1500024999,60502.0
+2014,65 to 80+,Female,No high school diploma,2500034999,23657.0
+2014,65 to 80+,Female,No high school diploma,3500049999,7261.0
+2014,65 to 80+,Female,No high school diploma,5000074999,4666.0
+2014,65 to 80+,Female,High school or equivalent,,57461.0
+2014,65 to 80+,Female,High school or equivalent,50009999,76573.0
+2014,65 to 80+,Female,High school or equivalent,1000014999,152945.0
+2014,65 to 80+,Female,High school or equivalent,1500024999,161619.0
+2014,65 to 80+,Female,High school or equivalent,2500034999,61889.0
+2014,65 to 80+,Female,High school or equivalent,3500049999,55265.0
+2014,65 to 80+,Female,High school or equivalent,5000074999,34110.0
+2014,65 to 80+,Female,High school or equivalent,75000,7122.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",,32604.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",50009999,135938.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",1000014999,85356.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",1500024999,203800.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",2500034999,95482.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",3500049999,64166.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",5000074999,63144.0
+2014,65 to 80+,Female,"Some college, less than 4-yr degree",75000,54704.0
+2014,65 to 80+,Female,Bachelor's degree or higher,,15459.0
+2014,65 to 80+,Female,Bachelor's degree or higher,50009999,62471.0
+2014,65 to 80+,Female,Bachelor's degree or higher,1000014999,104583.0
+2014,65 to 80+,Female,Bachelor's degree or higher,1500024999,82988.0
+2014,65 to 80+,Female,Bachelor's degree or higher,2500034999,59607.0
+2014,65 to 80+,Female,Bachelor's degree or higher,3500049999,113584.0
+2014,65 to 80+,Female,Bachelor's degree or higher,5000074999,97657.0
+2014,65 to 80+,Female,Bachelor's degree or higher,75000,110009.0
