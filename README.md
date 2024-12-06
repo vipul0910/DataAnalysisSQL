@@ -25,6 +25,7 @@ Data Cleaning:
 - Address missing values in Population Count.
   
 SQL Queries:
+
 Demographic Analysis:
 
 - Average population by education level, gender, and year.
